@@ -1,0 +1,17 @@
+hi:
+  carts:
+    cart:
+      title: "आपकी कार्ट"
+      empty: "खाली कार्ट"
+      checkout: "चेकआउट"
+  store:
+    index:
+      title_html: "आपका व्यावहारिक सूचि"
+      add_html: "कार्ट में जोड़ें"
+  layouts:
+    application:
+      title: "व्यावहारिक बुकशेल्फ"
+      home: "होम पेज"
+      questions: "सवाल"
+      news: "समाचार"
+      contact: "संपर्क"
